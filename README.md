@@ -75,7 +75,10 @@ public class Main {
 ```
 
 ### 실행예시
+## 적금계좌일때
 ![image](https://user-images.githubusercontent.com/21700482/164145821-c440bac8-4a83-4dda-ab19-18153544ebc3.png)
 
+
+## 보통예금계좌일때
 ![image](https://user-images.githubusercontent.com/21700482/164145985-e9643ae2-9b15-4e19-b384-fa9244303f14.png)
 
