@@ -32,6 +32,7 @@ SavingAccount - 적금계좌 class
 
 
 ``` java
+
 import java.util.Scanner;
 
 public class Main {
@@ -63,7 +64,7 @@ public class Main {
 				else {		//0을 입력받을경우 프로그램이 종료됨
 					break;
 				}
-				account.printAccount();
+				account.printAccount();	//입금 또는 출금후 계좌번호와 잔액을 출력
 			}catch(Exception e) {
 
 			}
