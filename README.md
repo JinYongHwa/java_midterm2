@@ -75,7 +75,7 @@ public class Main {
 ```
 
 ### 실행예시
-![image](https://user-images.githubusercontent.com/21700482/163700531-85f8c86e-f4c1-46b1-8820-a2e482ac096e.png)
+![image](https://user-images.githubusercontent.com/21700482/164145821-c440bac8-4a83-4dda-ab19-18153544ebc3.png)
 
-![image](https://user-images.githubusercontent.com/21700482/163700911-775f875f-94d9-4d69-9b81-43f38544584d.png)
+![image](https://user-images.githubusercontent.com/21700482/164145923-e71a8d10-4912-4d0a-bff7-594feb60deaa.png)
 
